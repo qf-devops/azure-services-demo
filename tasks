@@ -1,0 +1,14 @@
+Assignment:
+ 
+1. Create vms:
+   Windows machine
+      Install packages ⇒ IIS server
+
+  Linux ubuntu machine
+     Install package => nginx
+
+2. Mount File share path in windows + ubuntu vm. 
+
+3. Filesync example
+
+4. Develop one example Cdn as poc  (origin blob container)
