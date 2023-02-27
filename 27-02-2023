@@ -1,3 +1,14 @@
 crete a vm (linux/windows)using AZ cli
 
 ref: https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
+
+
+tyerraform/arm templates for vm:
+
+https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-template
+
+Assignment:
+VMSS
+  Terraform template
+  Arm template
+
