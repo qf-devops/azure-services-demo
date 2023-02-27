@@ -1,0 +1,7 @@
+
+az login
+az account set --subscription "35akss-subscription-id"
+terraform init
+terrform plan
+terraform apply
+terraform destroy
