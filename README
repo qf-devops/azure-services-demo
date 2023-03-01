@@ -1,2 +1,10 @@
+1st assignment:
+
+install docker in local machine/windows vm
+
+docker run --name nano -d -it -p 80:80 nanoserver/iis
+
+2nd assignment:
+
 docker build -t iis-site .
 docker run -d -p 8000:80 --name my-running-site iis-site
