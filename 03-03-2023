@@ -4,3 +4,21 @@ authentication using docker login command
 $docker login url
 docker tag
 docker push
+
+
+------
+Dockerfile
+---
+FROM nanoserver/iis
+
+RUN powershell -NoProfile -Command Remove-Item -Recurse C:\inetpub\wwwroot\*
+
+WORKDIR /inetpub/wwwroot
+
+COPY content/ .
+------
+content/index.html
+
+Hi hello worlld
+
+----------------
