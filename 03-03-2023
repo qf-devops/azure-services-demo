@@ -1,0 +1,6 @@
+create azure container registry
+enable accesskey
+authentication using docker login command
+$docker login url
+docker tag
+docker push
