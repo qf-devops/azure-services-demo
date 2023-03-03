@@ -31,3 +31,8 @@ docker push iis-site devoapp.azurecr.io/iis-site:1.0
 create container instance using portal:
 
 https://learn.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal
+
+
+3rd:
+
+build docker image for dotnet / java based application with dopckerfile
