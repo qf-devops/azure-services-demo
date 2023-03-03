@@ -27,4 +27,7 @@ docker tag iis-site devoapp.azurecr.io/iis-site:1.0
 docker push iis-site devoapp.azurecr.io/iis-site:1.0
 
 
+2nd assignment:
+create container instance using portal:
 
+https://learn.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal
